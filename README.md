@@ -20,7 +20,7 @@ The **MN Unemployment** project is designed to provide a clear, accessible, and 
 ## Author
 **Name:** Cassie Elks  
 **Email:** cassie258elks@outlook.com  
-**Website:** [MN Unemployment](https://www.mnunemployment.com.co) 
+**Website:** [MN Unemployment](https://www.mnunemployment.com.co)
 
 Bio: A passionate developer with mastery in coding, problem-solving, and building user-friendly applications. Experienced in full-stack development and known for a helping nature, mentoring peers, and contributing to open-source projects.
 
